@@ -6,3 +6,7 @@
 ## My first time using Github Markup
 
 ***
+| Name        | Age         |
+| ----------- | ----------- |
+| Alex        | 70          |
+| Melanie     | 62.         |

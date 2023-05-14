@@ -1,7 +1,7 @@
 # hello-world
 Learning and ideas only
-<h1>Experimenting with Hello-World</h1>
 
-# Also experimenting with Hello-World
+# Experimenting with Hello-World
 
-# Heading level 1 There you go
+## My first time using Github Markup
+### If you don't add a blank line before the markup will not work
